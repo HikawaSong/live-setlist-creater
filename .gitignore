@@ -1,3 +1,10 @@
+# Auth file
+browser.json
+google_creds.json
+
+#VS Code settings
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
